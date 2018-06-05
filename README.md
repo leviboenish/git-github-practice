@@ -34,10 +34,11 @@ $git commit -m "commit message"
 
 - Push:
 ```
-$git push
+$git push origin(remote) master(branch)
 ```
 
 - Check Remote:
-```
 
+```
+  $git remote -v
 ```
