@@ -12,33 +12,33 @@ Hello World!
 - Clone a Repository:
 
 ```
-$git clone url
+$ git clone url
 ```
 
 - Check Status:
 ```
-$git status
+$ git status
 ```
 
 - Stage (Add):
 ```
-$git add -A/*
+$ git add -A/*
 ```
 
 - Commit:
 ```
-$git commit -m "commit message"
+$ git commit -m "commit message"
 ```
 
 ## Write Basic GitHub Commands Below
 
 - Push:
 ```
-$git push origin(remote) master(branch)
+$ git push origin(remote) master(branch)
 ```
 
 - Check Remote:
 
 ```
-  $git remote -v
+  $ git remote -v
 ```
